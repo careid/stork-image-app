@@ -1,0 +1,1 @@
+Simple implementation showing a stork image with basic styling. Using an Unsplash image for the stork. The app is centered with some basic spacing and typography.
